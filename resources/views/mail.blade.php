@@ -6,11 +6,11 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Новая заявка</h1>
+    <h1>New application</h1>
     <ul>
-        <li>Имя: {{$name}}</li>
-        <li>Телефон: {{$phone}}</li>
-        <li>Текст: {{$text}}</li>
+        <li>Name: {{$name}}</li>
+        <li>Phone: {{$phone}}</li>
+        <li>Text: {{$text}}</li>
     </ul>
 </body>
 </html>
